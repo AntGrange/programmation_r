@@ -12,8 +12,6 @@ brutToNet1 <- function(brutmensuel) {
 
 
 
-
-
 brutToNet2 <- function(brutmensuel, statut) {
   
   #vérifie s'il n'y a pas d'erreurs
@@ -35,8 +33,6 @@ brutToNet2 <- function(brutmensuel, statut) {
   }
   
   return (calcul) }
-
-
 
 
 
